@@ -1,0 +1,3 @@
+/home/jiexu/simpleSocket/simpleTCP/client_test/build/CMakeFiles/client_test.dir
+/home/jiexu/simpleSocket/simpleTCP/client_test/build/CMakeFiles/edit_cache.dir
+/home/jiexu/simpleSocket/simpleTCP/client_test/build/CMakeFiles/rebuild_cache.dir

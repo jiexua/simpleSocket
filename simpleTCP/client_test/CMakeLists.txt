@@ -99,3 +99,5 @@ if (${WIN_OS})
 SET(source_h_win
   ${PROJECT_SOURCE_DIR}/../common/win32Thread.h
 )
+
+endif(${WIN_OS})

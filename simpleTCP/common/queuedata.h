@@ -76,7 +76,6 @@ private:
 protected:
 	std::string queue_desc;
 private:
-	/点集转发
 	
 	//协议解析结果缓存
 	std::deque<T> datacache_queue;	//队列容器

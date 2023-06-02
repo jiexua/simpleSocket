@@ -1,0 +1,7 @@
+2023-06-02 19:12:32.788 [NoticeTipIMsg] bind success, 70001! [/home/jiexu/simpleSocket/simpleTCP/srv_IO/MySocketPrivate.cpp onConnect 143]!
+2023-06-02 19:12:32.800 [NoticeTipIMsg] listen success, 70001 ! [/home/jiexu/simpleSocket/simpleTCP/srv_IO/MySocketPrivate.cpp onConnect 155]!
+2023-06-02 19:12:34.429 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-02 19:12:34.430 [NoticeTipIMsg] accept ok!
+Server start get connect from 127.0.0.1:38642.[/home/jiexu/simpleSocket/simpleTCP/srv_IO/MySocketPrivate.cpp Accept 239]
+2023-06-02 19:12:34.439 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-02 19:12:34.450 [NoticeTipIMsg] connect ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 243]!
