@@ -250,7 +250,7 @@ bool MySocketPrivate::Accept()
 	return bRet;
 };
  
-bool MySocketPrivate::get_ipInt_list(std::set<long> &ipintlist)
+bool MySocketPrivate::get_ipInt_list(std::set<long> &ipintlist)//获取当前已连接客户端到ipintlist内 如果有连接返回true 否则false
 {
 	for (std::map<KeyObj_Client, MY_SOCKET>::iterator it = m_CSockets.begin();it!= m_CSockets.end();it++)
 	{
@@ -332,7 +332,7 @@ void MySocketPrivate::deleteSSocket()
  
  
 //return success read count
-int MySocketPrivate::Read(std::map<KeyObj_Client, RDClient> &bufs)
+int MySocketPrivate::Read(std::map<KeyObj_Client, RDClient> &bufs)//recv数据到各客户端的读入缓存器中
 {
 	int ret = 0;
 	
@@ -403,7 +403,7 @@ int MySocketPrivate::Read(std::map<KeyObj_Client, RDClient> &bufs)
 };
  
 //return success count
-int MySocketPrivate::Write(const char* buf, int size)
+int MySocketPrivate::Write(const char* buf, int size)//给所有已连接的客户端send数据
 {
 	int ret = 0;
  
@@ -464,7 +464,7 @@ int MySocketPrivate::Write(const char* buf, int size)
 };
  
 //return success count
-int MySocketPrivate::Write(unsigned long long ipInt, const char* buf, int size)
+int MySocketPrivate::Write(unsigned long long ipInt, const char* buf, int size)//给指定ip的客户端send数据
 {
 	int ret = 0;
  

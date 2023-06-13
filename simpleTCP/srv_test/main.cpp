@@ -6,6 +6,7 @@
 #include <unistd.h>
 #include <stdio.h>
 #include <stdlib.h>
+#include <iostream>
 #endif
  
 const unsigned int PORT = 60008;
@@ -18,7 +19,8 @@ int main(int argc, char *argv[])
 {
     MySocket server_test(70001,1);
     char buf[]="hello, this is server!";
- 
+    server_test.Write((const char*)buf,(int)strlen(buf));
+    usleep(10000000);
     // TcpSocket ts;
     // ts.len=(int)strlen(buf);
     // memcpy(ts.desc,buf,ts.len);
@@ -27,12 +29,15 @@ int main(int argc, char *argv[])
  
     while(1)
     {
+        // std::cout<<"please input:"<<std::endl;
+        std::cin>>buf;
+        // std::cout<<std::endl;
         server_test.Write((const char*)buf,(int)strlen(buf));
         // server_test.Write((const char*)&ts,(int)sizeof(TcpSocket));
 #ifdef WIN32
 		Sleep(10000);
 #else
-		usleep(10000000);
+		// usleep(10000000);
 #endif
     }
     return 0;

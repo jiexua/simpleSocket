@@ -60,10 +60,11 @@ int MySocketWD::Run()
 			//由读取进程去重新建立链接,写入线程只判定链接状态,进行数据写入
 			unsigned char buf[512] = { 0 };
 			int len = this->getBuffer(buf);
-			if (len <= 0 && (heartBeatWrite+heartBeat_interval)<static_cast<unsigned int>(time(NULL))) 
-			{
-				len = this->getHeartBeatBuffer(buf);
-			}
+			//给服务端发送心跳数据 表明自己还在连接
+			// if (len <= 0 && (heartBeatWrite+heartBeat_interval) < static_cast<unsigned int>(time(NULL))) 
+			// {
+			// 	len = this->getHeartBeatBuffer(buf);
+			// }
 			if (len > 0) {
 				switch (netType)
 				{
@@ -155,7 +156,7 @@ int MySocketWD::getBuffer(unsigned char * _buf)
 			}
 			memcpy(_buf,data.Buf,data.len);
 			ret = data.len;
-			printf("send:%s\r\n",_buf);
+			// printf("send:%s\r\n",_buf);
 		}
 		catch (const std::exception& e)
 		{

@@ -365,7 +365,7 @@ int MySocketClient::Read(RDClient &bufs)
 	}
 };
  
-int MySocketClient::Read(char* buf, int size)
+int MySocketClient::Read(char* buf, int size)//读入数据到缓存器中
 {
 	try {
 		if (m_OnConnect) 
@@ -435,7 +435,7 @@ int MySocketClient::Read(char* buf, int size)
 	}
 }
  
-int MySocketClient::Write(const char* buf, int size)
+int MySocketClient::Write(const char* buf, int size)//给服务端发送数据
 {
 	try {
 		if (m_OnConnect) 

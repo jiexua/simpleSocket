@@ -53,7 +53,7 @@ int MySocketWD::Run()
 						unsigned char* _buf = new unsigned char[2 * len + 1];
 						memset(_buf, 0, 2 * len + 1);
 						len = PFunc::code(buf, len, _buf);//序列化处理
-						printf("send data: %d\r\n",len);
+						// printf("send data: %d\r\n",len);
 						ret = myPDataPrt->Write(_ipInt, (const char*)_buf, len);
 						delete[] _buf;
 						_buf = NULL;
@@ -106,7 +106,7 @@ int MySocketWD::Run()
 	return 0;
 };
  
-int MySocketWD::AddData(const char* buf, int len)
+int MySocketWD::AddData(const char* buf, int len)//给所有已连接客户端的写入缓存器加入数据
 {
 	if(len>0&&NULL!=buf){
 		if(len>=512){
@@ -131,7 +131,7 @@ int MySocketWD::AddData(const char* buf, int len)
 	return 0;
 }
  
-int MySocketWD::getBuffer(unsigned long long &_ipInt, unsigned char* _buf)
+int MySocketWD::getBuffer(unsigned long long &_ipInt, unsigned char* _buf)//从缓存器中取数据
 {
 	if(NULL == _buf)
 		return 0;

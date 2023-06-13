@@ -1,0 +1,458 @@
+2023-06-07 09:56:47.182 [NoticeTipIMsg] bind success, 70001! [/home/jiexu/simpleSocket/simpleTCP/srv_IO/MySocketPrivate.cpp onConnect 143]!
+2023-06-07 09:56:47.192 [NoticeTipIMsg] listen success, 70001 ! [/home/jiexu/simpleSocket/simpleTCP/srv_IO/MySocketPrivate.cpp onConnect 155]!
+2023-06-07 09:57:03.685 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 09:57:03.687 [NoticeTipIMsg] accept ok!
+Server start get connect from 127.0.0.1:57064.[/home/jiexu/simpleSocket/simpleTCP/srv_IO/MySocketPrivate.cpp Accept 239]
+2023-06-07 09:57:03.696 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 09:57:03.706 [NoticeTipIMsg] connect ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 243]!
+2023-06-07 09:57:34.634 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 09:57:34.638 [NoticeTipIMsg] accept ok!
+Server start get connect from 127.0.0.1:40654.[/home/jiexu/simpleSocket/simpleTCP/srv_IO/MySocketPrivate.cpp Accept 239]
+2023-06-07 09:57:34.645 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 09:57:34.656 [NoticeTipIMsg] connect ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 243]!
+2023-06-07 10:09:46.919 [NoticeTipIMsg] bind success, 70001! [/home/jiexu/simpleSocket/simpleTCP/srv_IO/MySocketPrivate.cpp onConnect 143]!
+2023-06-07 10:09:46.931 [NoticeTipIMsg] listen success, 70001 ! [/home/jiexu/simpleSocket/simpleTCP/srv_IO/MySocketPrivate.cpp onConnect 155]!
+2023-06-07 10:09:58.175 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:09:58.181 [NoticeTipIMsg] accept ok!
+Server start get connect from 127.0.0.1:42192.[/home/jiexu/simpleSocket/simpleTCP/srv_IO/MySocketPrivate.cpp Accept 239]
+2023-06-07 10:09:58.186 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:09:58.197 [NoticeTipIMsg] connect ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 243]!
+2023-06-07 10:11:26.543 [NoticeTipIMsg] bind success, 70001! [/home/jiexu/simpleSocket/simpleTCP/srv_IO/MySocketPrivate.cpp onConnect 143]!
+2023-06-07 10:11:26.554 [NoticeTipIMsg] listen success, 70001 ! [/home/jiexu/simpleSocket/simpleTCP/srv_IO/MySocketPrivate.cpp onConnect 155]!
+2023-06-07 10:11:41.437 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:11:41.439 [NoticeTipIMsg] accept ok!
+Server start get connect from 127.0.0.1:52622.[/home/jiexu/simpleSocket/simpleTCP/srv_IO/MySocketPrivate.cpp Accept 239]
+2023-06-07 10:11:41.448 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:11:41.459 [NoticeTipIMsg] connect ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 243]!
+2023-06-07 10:24:01.903 [NoticeTipIMsg] bind success, 70001! [/home/jiexu/simpleSocket/simpleTCP/srv_IO/MySocketPrivate.cpp onConnect 143]!
+2023-06-07 10:24:01.914 [NoticeTipIMsg] listen success, 70001 ! [/home/jiexu/simpleSocket/simpleTCP/srv_IO/MySocketPrivate.cpp onConnect 155]!
+2023-06-07 10:24:14.914 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:24:14.919 [NoticeTipIMsg] accept ok!
+Server start get connect from 127.0.0.1:42032.[/home/jiexu/simpleSocket/simpleTCP/srv_IO/MySocketPrivate.cpp Accept 239]
+2023-06-07 10:24:14.925 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:24:14.936 [NoticeTipIMsg] connect ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 243]!
+2023-06-07 10:42:51.996 [NoticeTipIMsg] bind success, 70001! [/home/jiexu/simpleSocket/simpleTCP/srv_IO/MySocketPrivate.cpp onConnect 143]!
+2023-06-07 10:42:52.007 [NoticeTipIMsg] listen success, 70001 ! [/home/jiexu/simpleSocket/simpleTCP/srv_IO/MySocketPrivate.cpp onConnect 155]!
+2023-06-07 10:43:07.636 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:43:07.646 [NoticeTipIMsg] accept ok!
+Server start get connect from 127.0.0.1:55362.[/home/jiexu/simpleSocket/simpleTCP/srv_IO/MySocketPrivate.cpp Accept 239]
+2023-06-07 10:43:07.647 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:43:07.658 [NoticeTipIMsg] connect ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 243]!
+2023-06-07 10:51:57.158 [NoticeTipIMsg] bind success, 70001! [/home/jiexu/simpleSocket/simpleTCP/srv_IO/MySocketPrivate.cpp onConnect 143]!
+2023-06-07 10:51:57.168 [NoticeTipIMsg] listen success, 70001 ! [/home/jiexu/simpleSocket/simpleTCP/srv_IO/MySocketPrivate.cpp onConnect 155]!
+2023-06-07 10:51:58.604 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:51:58.612 [NoticeTipIMsg] accept ok!
+Server start get connect from 127.0.0.1:53068.[/home/jiexu/simpleSocket/simpleTCP/srv_IO/MySocketPrivate.cpp Accept 239]
+2023-06-07 10:51:58.614 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:51:58.625 [NoticeTipIMsg] connect ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 243]!
+2023-06-07 10:54:06.252 [NoticeTipIMsg] bind success, 70001! [/home/jiexu/simpleSocket/simpleTCP/srv_IO/MySocketPrivate.cpp onConnect 143]!
+2023-06-07 10:54:06.264 [NoticeTipIMsg] listen success, 70001 ! [/home/jiexu/simpleSocket/simpleTCP/srv_IO/MySocketPrivate.cpp onConnect 155]!
+2023-06-07 10:54:07.463 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:54:07.473 [NoticeTipIMsg] accept ok!
+Server start get connect from 127.0.0.1:39472.[/home/jiexu/simpleSocket/simpleTCP/srv_IO/MySocketPrivate.cpp Accept 239]
+2023-06-07 10:54:07.473 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:54:07.484 [NoticeTipIMsg] connect ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 243]!
+2023-06-07 10:55:40.695 [NoticeTipIMsg] bind success, 70001! [/home/jiexu/simpleSocket/simpleTCP/srv_IO/MySocketPrivate.cpp onConnect 143]!
+2023-06-07 10:55:40.706 [NoticeTipIMsg] listen success, 70001 ! [/home/jiexu/simpleSocket/simpleTCP/srv_IO/MySocketPrivate.cpp onConnect 155]!
+2023-06-07 10:55:42.111 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:55:42.118 [NoticeTipIMsg] accept ok!
+Server start get connect from 127.0.0.1:51420.[/home/jiexu/simpleSocket/simpleTCP/srv_IO/MySocketPrivate.cpp Accept 239]
+2023-06-07 10:55:42.121 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:55:42.132 [NoticeTipIMsg] connect ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 243]!
+2023-06-07 10:57:01.534 [SoftErrorIMsg] socket bind fail, 70001 ![/home/jiexu/simpleSocket/simpleTCP/srv_IO/MySocketPrivate.cpp onConnect 137]
+2023-06-07 10:57:01.545 [SoftErrorIMsg] listen port(70001) error, [/home/jiexu/simpleSocket/simpleTCP/srv_IO/MySocket.cpp MySocket 34]
+2023-06-07 10:57:03.206 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:03.217 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:03.228 [ConfErrorIMsg] connect fail !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 199]!
+2023-06-07 10:57:03.238 [SoftErrorIMsg] connect server[127.0.0.1,70001] error,please check it,[/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocket.cpp MySocket 20]!
+2023-06-07 10:57:03.249 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:03.260 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:03.270 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:03.281 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:04.215 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:04.226 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:04.236 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:04.247 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:05.221 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:05.232 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:05.242 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:05.253 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:06.219 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:06.229 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:06.240 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:06.251 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:07.217 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:07.228 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:07.260 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:07.271 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:08.217 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:08.228 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:08.270 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:08.280 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:09.223 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:09.233 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:09.275 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:09.286 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:10.226 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:10.236 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:10.289 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:10.299 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:11.230 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:11.241 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:11.304 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:11.315 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:12.236 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:12.248 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:12.312 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:12.322 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:13.236 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:13.248 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:13.324 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:13.334 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:14.239 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:14.250 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:14.335 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:14.346 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:15.242 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:15.253 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:15.350 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:15.360 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:16.247 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:16.258 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:16.356 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:16.366 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:17.249 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:17.260 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:17.376 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:17.387 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:18.252 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:18.263 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:18.379 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:18.390 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:19.253 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:19.264 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:19.391 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:19.402 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:20.258 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:20.268 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:20.406 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:20.417 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:21.260 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:21.271 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:21.423 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:21.433 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:22.260 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:22.271 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:22.431 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:22.442 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:23.257 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:23.267 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:23.447 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:23.458 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:24.266 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:24.277 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:24.456 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:24.467 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:25.263 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:25.275 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:25.466 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:25.477 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:27.215 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:27.226 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:27.236 [ConfErrorIMsg] connect fail !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 199]!
+2023-06-07 10:57:27.248 [SoftErrorIMsg] connect server[127.0.0.1,70001] error,please check it,[/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocket.cpp MySocket 20]!
+2023-06-07 10:57:27.258 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:27.270 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:27.281 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:27.291 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:28.228 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:28.239 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:28.249 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:28.261 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:29.224 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:29.235 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:29.245 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:29.256 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:30.229 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:30.240 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:30.251 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:30.262 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:31.228 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:31.241 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:31.273 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:31.283 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:32.240 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:32.251 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:32.283 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:32.294 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:33.239 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:33.249 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:33.291 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:33.302 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:34.240 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:34.251 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:34.305 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:34.316 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:35.240 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:35.250 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:35.314 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:35.325 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:36.242 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:36.253 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:36.328 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:36.340 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:37.252 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:37.263 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:37.337 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:37.348 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:38.251 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:38.261 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:38.348 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:38.358 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:39.251 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:39.262 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:39.357 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:39.368 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:40.256 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:40.267 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:40.373 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:40.383 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:41.263 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:41.274 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:41.381 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:41.392 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:42.260 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:42.270 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:42.388 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:42.399 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:43.258 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:43.268 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:43.403 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:43.413 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:44.266 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:44.277 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:44.414 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:44.425 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:45.261 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:45.272 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:45.423 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:45.434 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:46.272 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:46.283 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:46.444 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:46.454 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:47.268 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:47.279 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:47.448 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:47.459 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:48.272 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:48.282 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:48.466 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:48.476 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:49.277 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:49.289 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:49.478 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:49.489 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:50.283 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:50.295 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:50.487 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:50.497 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:51.281 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:51.292 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:51.494 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:51.505 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:52.291 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:52.301 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:52.506 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:52.517 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:53.287 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:53.298 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:53.520 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:53.530 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:54.288 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:54.299 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:54.534 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:54.545 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:55.289 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:55.300 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:57:55.548 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:57:55.559 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:58:01.078 [NoticeTipIMsg] bind success, 70001! [/home/jiexu/simpleSocket/simpleTCP/srv_IO/MySocketPrivate.cpp onConnect 143]!
+2023-06-07 10:58:01.090 [NoticeTipIMsg] listen success, 70001 ! [/home/jiexu/simpleSocket/simpleTCP/srv_IO/MySocketPrivate.cpp onConnect 155]!
+2023-06-07 10:58:04.326 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 10:58:04.330 [NoticeTipIMsg] accept ok!
+Server start get connect from 127.0.0.1:42354.[/home/jiexu/simpleSocket/simpleTCP/srv_IO/MySocketPrivate.cpp Accept 239]
+2023-06-07 10:58:04.338 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 10:58:04.349 [NoticeTipIMsg] connect ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 243]!
+2023-06-07 11:02:22.512 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 11:02:22.524 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 11:02:22.535 [ConfErrorIMsg] connect fail !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 199]!
+2023-06-07 11:02:22.545 [SoftErrorIMsg] connect server[127.0.0.1,70001] error,please check it,[/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocket.cpp MySocket 20]!
+2023-06-07 11:02:22.556 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 11:02:22.567 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 11:02:22.577 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 11:02:22.588 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 11:02:23.525 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 11:02:23.535 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 11:02:23.546 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 11:02:23.556 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 11:02:24.112 [SoftErrorIMsg] socket bind fail, 70001 ![/home/jiexu/simpleSocket/simpleTCP/srv_IO/MySocketPrivate.cpp onConnect 137]
+2023-06-07 11:02:24.122 [SoftErrorIMsg] listen port(70001) error, [/home/jiexu/simpleSocket/simpleTCP/srv_IO/MySocket.cpp MySocket 34]
+2023-06-07 11:02:24.522 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 11:02:24.532 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 11:02:24.543 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 11:02:24.553 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 11:02:25.523 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 11:02:25.535 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 11:02:25.556 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 11:02:25.567 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 11:02:26.529 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 11:02:26.540 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 11:02:26.561 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 11:02:26.572 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 11:02:27.530 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 11:02:27.541 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 11:02:27.573 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 11:02:27.584 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 11:02:28.533 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 11:02:28.543 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 11:02:28.584 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 11:02:28.595 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 11:02:29.538 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 11:02:29.549 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 11:02:29.603 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 11:02:29.613 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 11:02:30.543 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 11:02:30.553 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 11:02:30.617 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 11:02:30.628 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 11:02:31.541 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 11:02:31.551 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 11:02:31.627 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 11:02:31.638 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 11:02:32.548 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 11:02:32.560 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 11:02:32.634 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 11:02:32.645 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 11:02:33.547 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 11:02:33.558 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 11:02:33.652 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 11:02:33.663 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 11:02:34.553 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 11:02:34.564 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 11:02:34.662 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 11:02:34.673 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 11:02:35.557 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 11:02:35.568 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 11:02:35.675 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 11:02:35.686 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 11:02:36.555 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 11:02:36.565 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 11:02:36.685 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 11:02:36.696 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 11:02:37.564 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 11:02:37.575 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 11:02:37.693 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 11:02:37.703 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 11:02:39.553 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 11:02:39.564 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 11:02:39.575 [ConfErrorIMsg] connect fail !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 199]!
+2023-06-07 11:02:39.586 [SoftErrorIMsg] connect server[127.0.0.1,70001] error,please check it,[/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocket.cpp MySocket 20]!
+2023-06-07 11:02:39.597 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 11:02:39.608 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 11:02:39.619 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 11:02:39.630 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 11:02:40.563 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 11:02:40.574 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 11:02:40.585 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 11:02:40.595 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 11:02:41.561 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 11:02:41.573 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 11:02:41.585 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 11:02:41.596 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 11:02:42.570 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 11:02:42.582 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 11:02:42.592 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 11:02:42.603 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 11:02:43.572 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 11:02:43.583 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 11:02:43.604 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 11:02:43.614 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 11:02:44.568 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 11:02:44.580 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 11:02:44.612 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 11:02:44.624 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 11:02:45.569 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 11:02:45.581 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 11:02:45.623 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 11:02:45.634 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 11:02:46.433 [SoftErrorIMsg] socket bind fail, 70001 ![/home/jiexu/simpleSocket/simpleTCP/srv_IO/MySocketPrivate.cpp onConnect 137]
+2023-06-07 11:02:46.444 [SoftErrorIMsg] listen port(70001) error, [/home/jiexu/simpleSocket/simpleTCP/srv_IO/MySocket.cpp MySocket 34]
+2023-06-07 11:02:46.576 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 11:02:46.587 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 11:02:46.640 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 11:02:46.650 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 11:02:47.580 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 11:02:47.591 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 11:02:47.655 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 11:02:47.665 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 11:02:48.587 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 11:02:48.598 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 11:02:48.661 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 11:02:48.672 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 11:02:49.586 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 11:02:49.597 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 11:02:49.672 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 11:02:49.682 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 11:02:50.591 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 11:02:50.602 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 11:02:50.687 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 11:02:50.699 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 11:02:50.945 [SoftErrorIMsg] socket bind fail, 70001 ![/home/jiexu/simpleSocket/simpleTCP/srv_IO/MySocketPrivate.cpp onConnect 137]
+2023-06-07 11:02:50.956 [SoftErrorIMsg] listen port(70001) error, [/home/jiexu/simpleSocket/simpleTCP/srv_IO/MySocket.cpp MySocket 34]
+2023-06-07 11:02:51.591 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 11:02:51.602 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 11:02:51.699 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 11:02:51.710 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 11:02:52.597 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 11:02:52.609 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 11:02:52.714 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 11:02:52.725 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 11:02:53.593 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 11:02:53.604 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 11:02:53.721 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 11:02:53.732 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 11:02:55.962 [SoftErrorIMsg] socket bind fail, 70001 ![/home/jiexu/simpleSocket/simpleTCP/srv_IO/MySocketPrivate.cpp onConnect 137]
+2023-06-07 11:02:55.973 [SoftErrorIMsg] listen port(70001) error, [/home/jiexu/simpleSocket/simpleTCP/srv_IO/MySocket.cpp MySocket 34]
+2023-06-07 11:03:04.722 [SoftErrorIMsg] socket bind fail, 70001 ![/home/jiexu/simpleSocket/simpleTCP/srv_IO/MySocketPrivate.cpp onConnect 137]
+2023-06-07 11:03:04.733 [SoftErrorIMsg] listen port(70001) error, [/home/jiexu/simpleSocket/simpleTCP/srv_IO/MySocket.cpp MySocket 34]
+2023-06-07 11:05:01.820 [NoticeTipIMsg] bind success, 70001! [/home/jiexu/simpleSocket/simpleTCP/srv_IO/MySocketPrivate.cpp onConnect 143]!
+2023-06-07 11:05:01.831 [NoticeTipIMsg] listen success, 70001 ! [/home/jiexu/simpleSocket/simpleTCP/srv_IO/MySocketPrivate.cpp onConnect 155]!
+2023-06-07 11:05:04.713 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 11:05:04.717 [NoticeTipIMsg] accept ok!
+Server start get connect from 127.0.0.1:45266.[/home/jiexu/simpleSocket/simpleTCP/srv_IO/MySocketPrivate.cpp Accept 239]
+2023-06-07 11:05:04.725 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 11:05:04.735 [NoticeTipIMsg] connect ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 243]!
+2023-06-07 11:14:27.024 [NoticeTipIMsg] bind success, 70001! [/home/jiexu/simpleSocket/simpleTCP/srv_IO/MySocketPrivate.cpp onConnect 143]!
+2023-06-07 11:14:27.035 [NoticeTipIMsg] listen success, 70001 ! [/home/jiexu/simpleSocket/simpleTCP/srv_IO/MySocketPrivate.cpp onConnect 155]!
+2023-06-07 11:14:39.484 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 11:14:39.494 [NoticeTipIMsg] accept ok!
+Server start get connect from 127.0.0.1:45520.[/home/jiexu/simpleSocket/simpleTCP/srv_IO/MySocketPrivate.cpp Accept 239]
+2023-06-07 11:14:39.495 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 11:14:39.506 [NoticeTipIMsg] connect ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 243]!
+2023-06-07 11:19:05.049 [NoticeTipIMsg] bind success, 70001! [/home/jiexu/simpleSocket/simpleTCP/srv_IO/MySocketPrivate.cpp onConnect 143]!
+2023-06-07 11:19:05.060 [NoticeTipIMsg] listen success, 70001 ! [/home/jiexu/simpleSocket/simpleTCP/srv_IO/MySocketPrivate.cpp onConnect 155]!
+2023-06-07 11:19:06.682 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 11:19:06.690 [NoticeTipIMsg] accept ok!
+Server start get connect from 127.0.0.1:58508.[/home/jiexu/simpleSocket/simpleTCP/srv_IO/MySocketPrivate.cpp Accept 239]
+2023-06-07 11:19:06.693 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 11:19:06.704 [NoticeTipIMsg] connect ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 243]!
+2023-06-07 11:20:20.116 [SoftErrorIMsg] socket bind fail, 70001 ![/home/jiexu/simpleSocket/simpleTCP/srv_IO/MySocketPrivate.cpp onConnect 137]
+2023-06-07 11:20:20.127 [SoftErrorIMsg] listen port(70001) error, [/home/jiexu/simpleSocket/simpleTCP/srv_IO/MySocket.cpp MySocket 34]
+2023-06-07 11:23:36.305 [NoticeTipIMsg] bind success, 70001! [/home/jiexu/simpleSocket/simpleTCP/srv_IO/MySocketPrivate.cpp onConnect 143]!
+2023-06-07 11:23:36.317 [NoticeTipIMsg] listen success, 70001 ! [/home/jiexu/simpleSocket/simpleTCP/srv_IO/MySocketPrivate.cpp onConnect 155]!
+2023-06-07 11:23:40.607 [NoticeTipIMsg] socket ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 178]!
+2023-06-07 11:23:40.610 [NoticeTipIMsg] accept ok!
+Server start get connect from 127.0.0.1:56022.[/home/jiexu/simpleSocket/simpleTCP/srv_IO/MySocketPrivate.cpp Accept 239]
+2023-06-07 11:23:40.618 [NoticeTipIMsg] s_addr = 0x100007f ,port : 0x7111, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 188]
+2023-06-07 11:23:40.629 [NoticeTipIMsg] connect ok !, [/home/jiexu/simpleSocket/simpleTCP/client_IO/MySocketClient.cpp onConnect 243]!
